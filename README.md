@@ -12,14 +12,18 @@ Each review includes:
 
 Suitable for sentiment analysis and aspect-based sentiment analysis (ABSA).
 
-## Statistics
+## Dataset Information
 
-| Metric | Value |
+| **Information** | **Value** |
 |---|---|
+| Dataset Name | EComReviews-BD |
+| Total Reviews | 20,685 |
 | Categories | 19 |
-| Products | 483 |
-| Languages | Bangla, Banglish, English |
-| Sentiment Classes | Positive, Neutral, Negative |
+| Unique Products | 297 |
+| Unique Brands | 65 |
+| Aspects | 84 |
+| Total Unique Reviews | 19,590 |
+| Language | Bangla, English, Banglish |
 
 ## Dataset Files
 
